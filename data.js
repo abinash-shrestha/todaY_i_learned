@@ -47,8 +47,7 @@ const initialFacts = [
 
 // 👍 🤯 ⛔️
 
-
-curl 'https://mfjbcniypngppqjavjck.supabase.co/rest/v1/facts' \
--H "apikey: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1mamJjbml5cG5ncHBxamF2amNrIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTM5NzY1MzYsImV4cCI6MjAyOTU1MjUzNn0.jYnXwmwAiYsltV4lUyQMrTEoiV-V2ZgOaVtvdVIMWeU" \
--H "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1mamJjbml5cG5ncHBxamF2amNrIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTM5NzY1MzYsImV4cCI6MjAyOTU1MjUzNn0.jYnXwmwAiYsltV4lUyQMrTEoiV-V2ZgOaVtvdVIMWeU"
-
+// supabase url, api keys
+// curl 'https://mfjbcniypngppqjavjck.supabase.co/rest/v1/facts' \
+// -H "apikey: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1mamJjbml5cG5ncHBxamF2amNrIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTM5NzY1MzYsImV4cCI6MjAyOTU1MjUzNn0.jYnXwmwAiYsltV4lUyQMrTEoiV-V2ZgOaVtvdVIMWeU" \
+// -H "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1mamJjbml5cG5ncHBxamF2amNrIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTM5NzY1MzYsImV4cCI6MjAyOTU1MjUzNn0.jYnXwmwAiYsltV4lUyQMrTEoiV-V2ZgOaVtvdVIMWeU"
